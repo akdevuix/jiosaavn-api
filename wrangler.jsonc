@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jiosaavn-api",
+  "main": "worker.ts",
+  "compatibility_date": "2026-05-11"
+}
