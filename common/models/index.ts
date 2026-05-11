@@ -1,1 +1,0 @@
-export { DownloadLinkModel } from './download.model'
