@@ -1,1 +1,0 @@
-export { ArtistController } from './artist.controller'
