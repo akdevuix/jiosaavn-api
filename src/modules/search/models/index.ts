@@ -1,0 +1,5 @@
+export { SearchModel, SearchAPIResponseModel } from './search.model'
+export { SearchSongModel, SearchSongAPIResponseModel } from './search-song.model'
+export { SearchAlbumModel, SearchAlbumAPIResponseModel } from './search-album.model'
+export { SearchArtistModel, SearchArtistAPIResponseModel } from './search-artist.model'
+export { SearchPlaylistModel, SearchPlaylistAPIResponseModel } from './search-playlist.model'
